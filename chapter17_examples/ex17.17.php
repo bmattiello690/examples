@@ -38,7 +38,7 @@
 value="Submit Entry"></td>
 </tr>
 <tr><td></td>
-<td><input type=reset value="Clear"></td>
+<td><input type=reset value="Cleared"></td>
 </tr>
 <table>
 </form>
